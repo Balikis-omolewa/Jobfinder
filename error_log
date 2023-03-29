@@ -1,0 +1,63 @@
+[22-Dec-2022 13:07:45 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/login.php on line 42
+[05-Jan-2023 16:43:47 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[05-Jan-2023 16:43:47 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[05-Jan-2023 16:47:45 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[05-Jan-2023 16:47:45 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[25-Jan-2023 17:02:04 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[25-Jan-2023 17:02:04 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[25-Jan-2023 17:02:15 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[25-Jan-2023 17:02:15 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[25-Jan-2023 17:02:17 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[25-Jan-2023 17:02:17 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[25-Jan-2023 17:02:17 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[25-Jan-2023 17:02:17 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[25-Jan-2023 17:02:17 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[25-Jan-2023 17:02:17 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[25-Jan-2023 17:02:18 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[25-Jan-2023 17:02:18 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[25-Jan-2023 17:02:18 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[25-Jan-2023 17:02:18 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[25-Jan-2023 17:02:18 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[25-Jan-2023 17:02:18 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[25-Jan-2023 17:02:19 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[25-Jan-2023 17:02:19 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[17-Feb-2023 16:10:36 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[17-Feb-2023 16:10:36 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[17-Feb-2023 16:10:41 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[17-Feb-2023 16:10:41 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[17-Feb-2023 16:10:42 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[17-Feb-2023 16:10:42 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[17-Feb-2023 16:10:42 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[17-Feb-2023 16:10:42 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[17-Feb-2023 16:10:42 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[17-Feb-2023 16:10:42 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[17-Feb-2023 16:10:42 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[17-Feb-2023 16:10:42 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[17-Feb-2023 16:10:43 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[17-Feb-2023 16:10:43 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[17-Feb-2023 16:10:46 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[17-Feb-2023 16:10:46 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[17-Feb-2023 16:10:48 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[17-Feb-2023 16:10:48 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[17-Feb-2023 16:10:48 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[17-Feb-2023 16:10:48 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[17-Feb-2023 16:10:48 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[17-Feb-2023 16:10:48 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[17-Feb-2023 16:10:49 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[17-Feb-2023 16:10:49 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[17-Feb-2023 16:10:49 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[17-Feb-2023 16:10:49 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[17-Feb-2023 16:10:49 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[17-Feb-2023 16:10:49 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[17-Feb-2023 16:10:50 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[17-Feb-2023 16:10:50 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[17-Feb-2023 16:10:51 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[17-Feb-2023 16:10:51 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[17-Feb-2023 16:10:51 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[17-Feb-2023 16:10:51 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[17-Feb-2023 16:10:51 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[17-Feb-2023 16:10:51 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[17-Feb-2023 16:10:51 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[17-Feb-2023 16:10:51 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
+[17-Feb-2023 16:10:51 Africa/Lagos] PHP Warning:  mail() has been disabled for security reasons in /home/placemen/public_html/jobfinder/signup.php on line 48
+[17-Feb-2023 16:10:51 Africa/Lagos] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/placemen/public_html/jobfinder/header.php:4) in /home/placemen/public_html/jobfinder/signup.php on line 49
